@@ -13,7 +13,7 @@ Read potentiometer and show value in Serial Monitor. Control speed of the motor 
 1 x BC547 Transistor
 1 x Potentiometer
 1 x Diode
-1 x Resistor (220 ohm)
+1 x Resistor (10 kohm)
 1 x Breadboard
 1 x Micro-B USB Cable
 */

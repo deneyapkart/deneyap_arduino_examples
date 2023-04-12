@@ -11,7 +11,7 @@ Measure light intensity and show in Serial Monitor. Depends on the light intensi
 1 x Deneyap Kart
 1 x LDR
 1 x Red LED
-2 x Resistor (100 ohm)
+2 x Resistor (220 ohm)
 1 x Breadboard
 1 x Micro-B USB Cable
 */

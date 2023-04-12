@@ -14,7 +14,7 @@ Measure distance and show in Serial Monitor. Depends on distance, turn on/off LE
 1 x Yellow LED
 1 x Green LED
 1 x Buzzer
-4 x Resistor (100 ohm)
+4 x Resistor (220 ohm)
 1 x Breadboard
 1 x Micro-B USB Cable
 
