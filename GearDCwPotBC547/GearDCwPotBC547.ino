@@ -31,7 +31,7 @@ void setup() {
 
 void loop() {
   potValue = analogRead(pot); //read potentiometer value
-  potValue = map(knobValue, 0, 4095, 0, 255); //map value from 13 bit to 8 bit
+  potValue = map(potValue, 0, 4095, 0, 255); //map value from 13 bit to 8 bit
   Serial.println(potValue); //show the value in Serial Monitor
   analogWrite(motor, potValue); //adjust speed of the motor
   delay(100);
