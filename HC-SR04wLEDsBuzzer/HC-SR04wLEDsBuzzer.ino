@@ -19,7 +19,7 @@ Measure distance and show in Serial Monitor. Depends on distance, turn on/off LE
 1 x Micro-B USB Cable
 
 #  Library
-Add "HCSR04" Library by Martin Sosic (https://github.com/Martinsos/arduino-lib-hc-sr04)
+Add "HCSR04" Library version 2.0.0 by Martin Sosic (https://github.com/Martinsos/arduino-lib-hc-sr04)
 */
 
 #include <HCSR04.h> //HC-SR04 lib
