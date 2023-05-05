@@ -1,2 +1,2 @@
 # deneyap_arduino_examples
- More Examples for Deneyap Boards
+ More Examples with Fritzing simulation for Deneyap Development Boards.
